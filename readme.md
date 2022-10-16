@@ -1,0 +1,1 @@
+This is my colour palette project. Deciding which colour to pick while making an illustration is my favourite part. This application will help me decide it efficiently.
